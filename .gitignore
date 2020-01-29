@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+Ex_Files_NumPy_Data_EssT/
+Ex_Files_Programming_Foundations_Algorithms/
